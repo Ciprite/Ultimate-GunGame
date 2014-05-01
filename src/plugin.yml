@@ -1,0 +1,12 @@
+name: UGunGame
+version: 1.1.1
+author: Ciprite
+depend: [Vault]
+
+main: org.ciprite.ugungame.UGunGame
+
+commands:
+  ugungame:
+    usage: /<command>
+    description: All the commands.
+    aliases: [ugg]
